@@ -2,6 +2,14 @@
 
 _👀 My first impressions about vite boilerplate ant tailwindcss_
 
+## Built With
+
+* [React.js](https://reactjs.org/)
+* [Vitejs](https://vitejs.dev/)
+* [TypeScript](https://www.typescriptlang.org/docs/)
+* [Tailwindcss](https://tailwindcss.com/)
+* [React-router-dom](https://reactrouterdotcom.fly.dev/docs/en/v6)
+
 ## Install
 In the project directory, you can run:
 
