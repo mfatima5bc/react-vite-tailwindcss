@@ -2,6 +2,8 @@
 
 _👀 My first impressions about vite boilerplate ant tailwindcss_
 
+[deployed here🚀](https://react-vite-tailwindcss-eqyid7tk2-mfatima5bc.vercel.app/)
+
 ## Built With
 
 * [React.js](https://reactjs.org/)
